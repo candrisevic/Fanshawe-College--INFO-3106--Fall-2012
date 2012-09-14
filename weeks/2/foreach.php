@@ -40,8 +40,17 @@ for( $i = 0; $i < count($array); ++$i )
 }
 
 $array_keys = array_keys($array);
+
+print_r( $array );
+print '<br /><br />';
+print_r( $array_keys );
+
 for( $i = 0; $i < count($array_keys); ++$i )
 {
   print $array[$array_keys[$i]] . '<br />';
 }
+
+
+
+
 
