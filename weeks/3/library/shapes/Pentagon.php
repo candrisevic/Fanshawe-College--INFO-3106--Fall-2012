@@ -41,6 +41,5 @@ class Pentagon extends Shape {
 	else {
 	throw new Exception('You must specify one or all 5 sides of the square');
 	}
-	}
-	
+  }	
 }

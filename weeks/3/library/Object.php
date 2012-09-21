@@ -11,5 +11,4 @@ class Object {
 	final public function __toString() {
 	return $this->toString();
 	}
-
 }

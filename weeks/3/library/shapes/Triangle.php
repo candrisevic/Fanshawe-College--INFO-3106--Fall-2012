@@ -38,6 +38,5 @@ class Triangle extends Shape {
 	else {
 	throw new Exception('You must specify one or all 3 sides of the triangle');
 	}
-	}
- 
+  }
 }

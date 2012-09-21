@@ -38,5 +38,5 @@ class Square extends Shape {
 	else {
 	throw new Exception('You must specify one or all 4 sides of the square');
 	}
-	}
   }
+}
