@@ -23,3 +23,12 @@ print $triangle . '<br />';
 foreach( $triangle->getDimensions() as $side_length ) {
 	print $side_length . '<br />';
 }
+
+ /*
+ $a = 3;
+ $b = 4;
+ $c = sqrt($a*$a + $b*$b);
+ echo "a = " .$a. "<br>";
+ echo "b = " .$b. "<br>";
+ echo "c = " .$c. "<br>";
+  */
